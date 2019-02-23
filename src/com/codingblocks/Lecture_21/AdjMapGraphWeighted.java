@@ -241,6 +241,7 @@ public class AdjMapGraphWeighted<T> {
             unvisited = visited.contains(front.first) ? front.second : front.first;
 
             for (Vertex padosi: unvisited.neighbours.values()) {
+                visited.add(padosi);
                 Edge edge = new Edge(unvisited, padosi, unvisited.weights.get(padosi.value));
                 queue.add(edge);
             }

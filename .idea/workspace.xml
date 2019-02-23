@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b63cf167-edd5-4043-8911-2da64e5652d9" name="Default Changelist" comment="" />
+    <list default="true" id="b63cf167-edd5-4043-8911-2da64e5652d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/Lecture_21/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +18,48 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            <state relative-caret-position="-88">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/AdjListGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1604">
+              <caret line="130" column="36" lean-forward="true" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/AdjListGraph.java">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraphWeighted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-245">
-              <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+            <state relative-caret-position="-638">
+              <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -63,12 +98,12 @@
       <find>leftr</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/NormalSterring.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/main.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/Car.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/Client.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/Teacher.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_13/Student.java" />
@@ -113,19 +148,23 @@
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_19/Human.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_19/MainSort.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/Graph.java" />
-        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/GraphEdgeClient.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/GraphAdjListClient.java" />
         <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/AdjListGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_21/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraph.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraphWeighted.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -133,7 +172,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +196,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
               <item name="Lecture_20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CRUX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRUX" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+              <item name="Lecture_21" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CRUX" type="b2602c69:ProjectViewProjectNode" />
@@ -201,19 +246,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550423059069" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HackerBlocks" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550900672498" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codingblocks.Lecture_21" />
       <recent name="com.codingblocks.Lecture_19" />
       <recent name="com.codingblocks.Lecture_18" />
       <recent name="com.codingblocks.Lecture_17" />
       <recent name="com.codingblocks.Lecture_15" />
-      <recent name="com.codingblocks.Lecture_12" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -228,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GraphAdjListClient">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="GraphAdjListClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.Lecture_20.GraphAdjListClient" />
       <module name="CRUX" />
@@ -255,12 +301,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Lecture_19.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Lecture_21.Main" />
       <module name="CRUX" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codingblocks.Lecture_19.*" />
+          <option name="PATTERN" value="com.codingblocks.Lecture_21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,17 +343,17 @@
     <list>
       <item itemvalue="Application.GraphAdjListClient" />
       <item itemvalue="Application.GraphEdgeClient" />
-      <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.MainHeap" />
       <item itemvalue="Application.MainSort" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.GraphAdjListClient" />
         <item itemvalue="Application.GraphEdgeClient" />
         <item itemvalue="Application.MainSort" />
         <item itemvalue="Application.MainHeap" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -326,8 +372,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15570469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1442953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +388,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30307466" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32650074" />
@@ -388,27 +435,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_10/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_10/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_2/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_13/TA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -756,13 +782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/GraphAdjListClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -777,10 +796,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/EdgeListGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_20/AdjListGraph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-245">
-          <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+        <state relative-caret-position="1604">
+          <caret line="130" column="36" lean-forward="true" selection-start-line="130" selection-start-column="36" selection-end-line="130" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="54" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Lecture_21/AdjMapGraphWeighted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
         </state>
       </provider>
     </entry>

@@ -6,6 +6,7 @@ public class EdgeListGraph <T> {
     private LinkedList<Vertex> vertices;
     private LinkedList<Edge> edges;
 
+    //empty linkedlist
     public EdgeListGraph() {
         vertices = new LinkedList<>();
         edges = new LinkedList<>();
